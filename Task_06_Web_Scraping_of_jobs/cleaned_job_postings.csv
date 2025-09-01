@@ -1,0 +1,62 @@
+title,company,location,skills,posted_text,posted_date
+Data Analyst,TechCorp,"Sylhet, Bangladesh","['AWS', 'Docker', 'Excel', 'Python', 'SQL']",Just posted,2025-09-01
+Analytics Engineer,TechCorp,"Chattogram, Bangladesh","['Excel', 'Machine Learning', 'NumPy', 'Power BI', 'Python', 'Tableau']",Posted 29 days ago,2025-08-03
+Bi Analyst,DataWorks,"Chattogram, Bangladesh","['Docker', 'NumPy', 'Power BI', 'Python', 'SQL']",30+ days ago,2025-08-02
+Ml Engineer,TechCorp,Remote,"['AWS', 'Docker', 'Machine Learning', 'Pandas', 'Power BI', 'Python', 'Tableau']",Just posted,2025-09-01
+Data Analyst,DataWorks,"Dhaka, Bangladesh","['AWS', 'Docker', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python', 'SQL']",Posted 4 day(s) ago,2025-08-28
+Data Scientist,DataWorks,"Chattogram, Bangladesh","['AWS', 'NumPy', 'Pandas', 'Python', 'SQL', 'Tableau']",Posted 3 day(s) ago,2025-08-29
+Data Analyst,DataWorks,"Sylhet, Bangladesh","['AWS', 'Machine Learning', 'NumPy', 'Power BI', 'Python', 'SQL']",Just posted,2025-09-01
+Analytics Engineer,Insightful Ltd,Remote,"['AWS', 'Docker', 'Machine Learning', 'NumPy', 'Python', 'SQL']",Posted 2 day(s) ago,2025-08-30
+Data Analyst,Insightful Ltd,Remote,"['AWS', 'Excel', 'Machine Learning', 'NumPy', 'Pandas', 'Python']",Posted 4 day(s) ago,2025-08-28
+Bi Analyst,TechCorp,"Sylhet, Bangladesh","['AWS', 'Docker', 'Excel', 'Power BI']",Posted 4 day(s) ago,2025-08-28
+Analytics Engineer,DataWorks,"Chattogram, Bangladesh","['AWS', 'Docker', 'Machine Learning', 'Pandas', 'Python', 'Tableau']",Posted 2 day(s) ago,2025-08-30
+Bi Analyst,DataWorks,"Dhaka, Bangladesh","['Docker', 'Excel', 'Machine Learning', 'NumPy', 'Python', 'SQL']",Just posted,2025-09-01
+Analytics Engineer,DataWorks,"Sylhet, Bangladesh","['AWS', 'Docker', 'Pandas', 'Power BI', 'Tableau']",Posted 5 day(s) ago,2025-08-27
+Analytics Engineer,Insightful Ltd,"Dhaka, Bangladesh","['Excel', 'Pandas', 'Python', 'Tableau']",Just posted,2025-09-01
+Data Scientist,TechCorp,"Dhaka, Bangladesh","['AWS', 'Excel', 'Machine Learning', 'NumPy', 'Python', 'SQL', 'Tableau']",Posted 9 days ago,2025-08-23
+Data Scientist,Insightful Ltd,Remote,"['Docker', 'NumPy', 'Pandas', 'Python', 'Tableau']",Just posted,2025-09-01
+Data Analyst,TechCorp,Remote,"['Docker', 'Machine Learning', 'SQL', 'Tableau']",Posted 10 days ago,2025-08-22
+Data Analyst,Insightful Ltd,"Dhaka, Bangladesh","['AWS', 'Machine Learning', 'Pandas', 'Python', 'SQL', 'Tableau']",Just posted,2025-09-01
+Data Scientist,Insightful Ltd,"Dhaka, Bangladesh","['Docker', 'Excel', 'Machine Learning', 'NumPy', 'Pandas', 'Python']",30+ days ago,2025-08-02
+Data Scientist,DataWorks,"Sylhet, Bangladesh","['AWS', 'Docker', 'Pandas', 'Python']",Just posted,2025-09-01
+Analytics Engineer,DataWorks,"Dhaka, Bangladesh","['AWS', 'Pandas', 'Power BI', 'SQL']",30+ days ago,2025-08-02
+Bi Analyst,Insightful Ltd,"Sylhet, Bangladesh","['Docker', 'Machine Learning', 'Python', 'SQL']",30+ days ago,2025-08-02
+Bi Analyst,TechCorp,"Chattogram, Bangladesh","['AWS', 'Docker', 'Excel', 'Pandas', 'Python']",Posted 2 day(s) ago,2025-08-30
+Data Scientist,Smart Technologies,"Dhaka, Bangladesh","['Docker', 'Excel', 'Pandas', 'Tableau']",Posted 24 days ago,2025-08-08
+Analytics Engineer,Insightful Ltd,"Sylhet, Bangladesh","['Excel', 'NumPy', 'Power BI', 'Python', 'SQL']",30+ days ago,2025-08-02
+Bi Analyst,DataWorks,Remote,"['AWS', 'Excel', 'Machine Learning', 'Pandas', 'Power BI', 'Python', 'SQL']",Posted 4 day(s) ago,2025-08-28
+Ml Engineer,DataWorks,"Dhaka, Bangladesh","['Docker', 'Excel', 'Machine Learning', 'Power BI', 'SQL', 'Tableau']",Posted 1 day(s) ago,2025-08-31
+Data Scientist,Smart Technologies,"Chattogram, Bangladesh","['AWS', 'Machine Learning', 'Python', 'SQL', 'Tableau']",Posted 10 days ago,2025-08-22
+Data Scientist,TechCorp,"Chattogram, Bangladesh","['AWS', 'Excel', 'NumPy', 'Pandas', 'Python']",Posted 3 day(s) ago,2025-08-29
+Data Analyst,Smart Technologies,"Chattogram, Bangladesh","['Machine Learning', 'NumPy', 'Pandas', 'Python', 'SQL']",Posted 3 day(s) ago,2025-08-29
+Data Analyst,Insightful Ltd,"Chattogram, Bangladesh","['AWS', 'Machine Learning', 'NumPy', 'Power BI', 'Python', 'Tableau']",Just posted,2025-09-01
+Data Analyst,Smart Technologies,"Sylhet, Bangladesh","['AWS', 'Excel', 'Power BI', 'SQL', 'Tableau']",Posted 17 days ago,2025-08-15
+Data Scientist,Smart Technologies,Remote,"['Docker', 'Excel', 'Machine Learning', 'NumPy', 'Python', 'Tableau']",Posted 1 day(s) ago,2025-08-31
+Data Scientist,Insightful Ltd,"Chattogram, Bangladesh","['Docker', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python', 'SQL']",Posted 16 days ago,2025-08-16
+Analytics Engineer,Smart Technologies,Remote,"['AWS', 'Machine Learning', 'Pandas', 'Power BI', 'Tableau']",Posted 23 days ago,2025-08-09
+Bi Analyst,Insightful Ltd,"Chattogram, Bangladesh","['Docker', 'Excel', 'Machine Learning', 'Power BI', 'Tableau']",Just posted,2025-09-01
+Analytics Engineer,TechCorp,Remote,"['Docker', 'Machine Learning', 'NumPy', 'Python', 'SQL', 'Tableau']",Posted 3 day(s) ago,2025-08-29
+Ml Engineer,DataWorks,Remote,"['AWS', 'Docker', 'Excel', 'Machine Learning', 'NumPy', 'Power BI', 'Python']",30+ days ago,2025-08-02
+Data Scientist,TechCorp,"Sylhet, Bangladesh","['Docker', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python', 'Tableau']",Posted 2 day(s) ago,2025-08-30
+Analytics Engineer,TechCorp,"Sylhet, Bangladesh","['Docker', 'Python', 'SQL', 'Tableau']",Just posted,2025-09-01
+Ml Engineer,TechCorp,"Chattogram, Bangladesh","['Docker', 'Machine Learning', 'Power BI', 'Python', 'SQL']",Posted 3 day(s) ago,2025-08-29
+Ml Engineer,Insightful Ltd,"Chattogram, Bangladesh","['Excel', 'Machine Learning', 'NumPy', 'Pandas', 'Python', 'SQL', 'Tableau']",Just posted,2025-09-01
+Data Analyst,Smart Technologies,Remote,"['AWS', 'Machine Learning', 'NumPy', 'Pandas', 'Python', 'Tableau']",Posted 9 days ago,2025-08-23
+Bi Analyst,Smart Technologies,"Sylhet, Bangladesh","['AWS', 'Docker', 'Python', 'SQL', 'Tableau']",Posted 29 days ago,2025-08-03
+Ml Engineer,Insightful Ltd,Remote,"['Docker', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python', 'Tableau']",Posted 9 days ago,2025-08-23
+Ml Engineer,Smart Technologies,"Sylhet, Bangladesh","['Excel', 'Machine Learning', 'Pandas', 'SQL', 'Tableau']",Posted 15 days ago,2025-08-17
+Data Analyst,DataWorks,"Chattogram, Bangladesh","['Excel', 'NumPy', 'Python', 'SQL', 'Tableau']",Posted 16 days ago,2025-08-16
+Bi Analyst,Smart Technologies,Remote,"['Excel', 'NumPy', 'Python', 'Tableau']",Just posted,2025-09-01
+Ml Engineer,Smart Technologies,Remote,"['AWS', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python']",Posted 6 day(s) ago,2025-08-26
+Ml Engineer,Insightful Ltd,"Dhaka, Bangladesh","['AWS', 'Docker', 'Machine Learning', 'NumPy', 'Python']",Just posted,2025-09-01
+Ml Engineer,DataWorks,"Chattogram, Bangladesh","['AWS', 'Excel', 'Machine Learning', 'NumPy', 'Pandas', 'Python']",Posted 15 days ago,2025-08-17
+Analytics Engineer,Smart Technologies,"Dhaka, Bangladesh","['AWS', 'Machine Learning', 'Pandas', 'Power BI', 'Python']",Posted 21 days ago,2025-08-11
+Data Analyst,Insightful Ltd,"Sylhet, Bangladesh","['AWS', 'NumPy', 'Pandas', 'Power BI', 'Python', 'SQL']",Posted 6 day(s) ago,2025-08-26
+Data Analyst,TechCorp,"Chattogram, Bangladesh","['AWS', 'Docker', 'NumPy', 'Python', 'SQL']",Posted 16 days ago,2025-08-16
+Bi Analyst,TechCorp,"Dhaka, Bangladesh","['Docker', 'Machine Learning', 'NumPy', 'Pandas', 'Python', 'SQL']",Posted 1 day(s) ago,2025-08-31
+Data Scientist,DataWorks,"Dhaka, Bangladesh","['AWS', 'Docker', 'Machine Learning', 'Power BI', 'SQL', 'Tableau']",Posted 19 days ago,2025-08-13
+Ml Engineer,Smart Technologies,"Chattogram, Bangladesh","['Docker', 'Excel', 'Machine Learning', 'NumPy', 'Pandas', 'Power BI', 'Python']",Just posted,2025-09-01
+Bi Analyst,Insightful Ltd,"Dhaka, Bangladesh","['Excel', 'Machine Learning', 'Pandas', 'SQL']",Posted 6 day(s) ago,2025-08-26
+Bi Analyst,Smart Technologies,"Chattogram, Bangladesh","['Excel', 'Pandas', 'Power BI', 'Python', 'SQL', 'Tableau']",Just posted,2025-09-01
+Ml Engineer,Smart Technologies,"Dhaka, Bangladesh","['AWS', 'Machine Learning', 'Pandas', 'Power BI', 'SQL']",Posted 7 days ago,2025-08-25
+Analytics Engineer,Insightful Ltd,"Chattogram, Bangladesh","['Excel', 'Machine Learning', 'NumPy', 'Python']",Posted 27 days ago,2025-08-05
